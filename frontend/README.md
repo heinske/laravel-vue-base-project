@@ -1,6 +1,6 @@
 # front
 
-> Projeto front-end do desaparecidos
+> Projeto front-end com vue
 
 ## Build Setup
 
