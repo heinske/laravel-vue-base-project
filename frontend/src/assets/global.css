@@ -1,0 +1,7 @@
+/* ajusta o thumbmail da imagem */
+img.preview {
+    width: 100px;
+    background-color: white;
+    border: 1px solid #DDD;
+    padding: 5px;
+}
